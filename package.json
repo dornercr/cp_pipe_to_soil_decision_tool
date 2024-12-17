@@ -1,7 +1,7 @@
 {
   "name": "cp",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://dornercr.github.io/cp_pipe_to_soil_decision_tool",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
